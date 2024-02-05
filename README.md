@@ -1,6 +1,9 @@
-# Sales Performance Report Tasks
+**Sales Performance Report Power BI Dashboard Description:**
 
-## Data Cleaning with SQL Modules:
+🔗 Project URL:
+
+Explore the HR System Power BI Dashboard here.
+https://www.novypro.com/project/sales-performance-dashboard-13
 
 - 🧹 **Data Cleaning:**
   - Use SQL modules for cleaning and preprocessing raw data.
