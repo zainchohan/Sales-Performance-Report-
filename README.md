@@ -1,6 +1,4 @@
-# Sales-Performance-Report-
-
-# Power BI Project Tasks
+# Sales Performance Report Tasks
 
 ## Data Cleaning with SQL Modules:
 
