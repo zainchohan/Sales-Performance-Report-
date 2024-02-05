@@ -8,14 +8,14 @@ https://www.novypro.com/project/sales-performance-dashboard-13
 - 🧹 **Data Cleaning:**
   - Use SQL modules for cleaning and preprocessing raw data.
 
-## Data Preparation and Modeling:
+ **Data Preparation and Modeling:**
 - 🔄 **Table Transformations:**
   - Ensure relevant transformations are applied to tables for accurate analysis.
 
 - 📊 **Data Modeling:**
   - Model the data appropriately for seamless calculations and visuals.
 
-## Key Calculations:
+**Key Calculations:**
 - 💰 **Total Sales:**
   - Calculate and display the overall sales figure.
 
@@ -28,7 +28,7 @@ https://www.novypro.com/project/sales-performance-dashboard-13
 - 🛍️ **Total Products:**
   - Determine and display the total number of products.
 
-## Visualizations:
+**Visualizations:**
 - 📅 **Monthly Sales Trend:**
   - Create a line chart to depict the monthly sales trend.
 
@@ -44,7 +44,7 @@ https://www.novypro.com/project/sales-performance-dashboard-13
 - 📊 **Sales by Product Category:**
   - Utilize a horizontal bar chart to represent sales across different product categories.
 
-## Filters:
+**Filters:**
 - 📅 **Date Filter:**
   - Implement a date filter for time-specific analysis.
 
@@ -54,7 +54,7 @@ https://www.novypro.com/project/sales-performance-dashboard-13
 - 🗺️ **State Filter:**
   - Integrate a filter for regional analysis based on state.
 
-## Regional Sales Analysis:
+**Regional Sales Analysis:**
 - 📄 **Separate Page:**
   - Dedicate a separate page for regional sales analysis.
 
